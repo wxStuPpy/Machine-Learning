@@ -1,2 +1,7 @@
+./.venv
+./.idea
+./modules
+./.venv1
 .idea/
 *.iml
+*.xml
