@@ -29,3 +29,28 @@ df.groupby('subject')['score'].mean().plot(kind='bar',figsize=(5,5))  # 画柱�
 plt.title("Average score")
 plt.ylabel("Average value")
 plt.show()
+
+
+
+data = {
+    'district': ['A', 'A', 'B', 'B', 'C', 'C', 'A', 'B'],
+    'view_num': [5, 15, 8, 20, 12, 7, 25, 18],
+    'price': [100, 150, 120, 200, 130, 110, 180, 170],
+    'area': [50, 60, 55, 80, 65, 58, 75, 70]
+}
+df1 = pd.DataFrame(data)
+print(df1)
+
+
+# 按照 district 分组，做多个聚合统计
+agg_result = df1.groupby('district').agg(
+    avg_price=('price', 'mean'),        # 平均房价
+    max_price=('price', 'max'),         # 最高房价
+    min_view=('view_num', 'min'),       # 最少看房人数
+    total_view=('view_num', 'sum'),     # 总看房人数
+    house_count=('price', 'count'),     # 房源数量
+    avg_area=('area', 'mean'),          # 平均面积
+    price_per_sqm=('price', lambda x: (x.sum() / df1.loc[x.index, 'area'].sum()))  # 每平米均价
+)
+print(agg_result)
+
