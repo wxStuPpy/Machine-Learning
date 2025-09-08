@@ -20,4 +20,4 @@ print(f'average age = {age.mean()}')
 print(df[age > age.mean()])
 
 # 同样的条件筛选，但只取出 'age' 列本身
-print(ages[ages > ages.mean()])
+print(age[age > age.mean()])
