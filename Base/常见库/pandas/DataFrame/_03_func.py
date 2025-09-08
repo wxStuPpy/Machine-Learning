@@ -26,3 +26,11 @@ print(df.mean(numeric_only=True))
 
 print(df[df['age'] > df['age'].mean()])
 print(df['age'].mean())
+
+df = pd.DataFrame({
+    "name": ["张三", "李四", "张三", "王五", "李四", "赵六"],
+    "city": ["北京", "上海", "北京", "广州", "上海", "深圳"]
+})
+
+print("所有城市唯一值:", df['city'].unique())
+print("城市的种类数:", df['city'].nunique())
