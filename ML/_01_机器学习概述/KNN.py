@@ -18,10 +18,10 @@ def func():
     estimator.fit(x, y)
 
     # 确保保存目录存在
-    os.makedirs("../modules", exist_ok=True)
+    os.makedirs("../../modules", exist_ok=True)
 
     # 保存模型
-    joblib.dump(estimator, "../modules/knn_model.pkl")
+    joblib.dump(estimator, "../../modules/knn_model.pkl")
 
     # 预测一组新样本
     test_point = [[5, 4, 6]]
@@ -29,7 +29,7 @@ def func():
     print(f"输入 {test_point} 的预测结果:", prediction)
 
     # 加载模型再预测，验证持久化
-    estimator2 = joblib.load("../modules/knn_model.pkl")
+    estimator2 = joblib.load("../../modules/knn_model.pkl")
     print(f"(加载模型后) 输入 {test_point} 的预测结果:", estimator2.predict(test_point))
 
 if __name__ == "__main__":
