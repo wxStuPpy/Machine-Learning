@@ -1,0 +1,201 @@
+﻿gender,tenure,monthly_charges,total_charges,contract_type,internet_service,has_paperless_billing,region,churn
+Male,62,39.43,2486.84,One year,DSL,Yes,East,No
+Female,51,27.09,1328.27,Two year,None,No,West,No
+Male,3,59.68,143.95,Month-to-month,Fiber optic,No,North,Yes
+Male,22,25.08,503.4,Month-to-month,Fiber optic,Yes,North,Yes
+Male,14,108.66,1593.08,One year,None,No,West,No
+Female,42,22.76,920.84,Month-to-month,Fiber optic,Yes,West,Yes
+Male,28,77.89,2173.76,One year,None,Yes,South,No
+Male,35,63.85,2204.72,Two year,Fiber optic,Yes,East,No
+Male,12,87.2,1030.99,One year,DSL,No,West,No
+Female,31,52.82,1600.55,Month-to-month,Fiber optic,No,West,Yes
+Male,70,35.5,2508.14,Month-to-month,Fiber optic,Yes,East,Yes
+Male,58,118.18,6802.4,Month-to-month,Fiber optic,No,West,Yes
+Male,27,103.89,2737.41,Month-to-month,DSL,No,West,Yes
+Male,65,106.04,6864.68,Month-to-month,DSL,Yes,South,Yes
+Female,41,45.03,1806.32,Month-to-month,DSL,Yes,North,Yes
+Male,44,23.88,983.83,Month-to-month,DSL,No,North,Yes
+Female,61,50.33,3053.96,Month-to-month,Fiber optic,Yes,North,Yes
+Female,56,73.71,4044.75,Month-to-month,DSL,No,North,Yes
+Female,5,52.67,349.74,Month-to-month,Fiber optic,No,West,Yes
+Male,27,102.79,2700.7,Month-to-month,Fiber optic,No,East,Yes
+Female,27,47.15,1240.74,One year,Fiber optic,No,East,No
+Male,43,116.53,4990.61,One year,None,Yes,South,No
+Female,29,65.73,1990.4,Month-to-month,Fiber optic,Yes,South,Yes
+Female,61,104.2,6269.68,Two year,Fiber optic,Yes,West,Yes
+Female,61,39.44,2412.94,Month-to-month,Fiber optic,Yes,East,Yes
+Female,0,61.14,51.86,One year,DSL,No,East,No
+Female,26,89.95,2323.21,Month-to-month,None,No,North,Yes
+Female,61,33.84,2005.75,Two year,DSL,Yes,West,No
+Female,2,33.27,61.14,One year,DSL,No,West,No
+Female,69,116.95,8145.91,One year,Fiber optic,No,North,Yes
+Male,71,91.46,6462.87,One year,DSL,No,West,No
+Male,26,24.11,698.67,Month-to-month,None,Yes,West,Yes
+Female,8,59.88,491.97,Month-to-month,Fiber optic,Yes,South,Yes
+Female,61,63.35,3925.98,One year,None,Yes,East,No
+Female,36,94.4,3409.33,Month-to-month,Fiber optic,No,West,Yes
+Male,50,45.09,2230.28,One year,Fiber optic,Yes,South,No
+Female,43,38.43,1734.43,Month-to-month,None,Yes,East,Yes
+Male,23,28.09,657.33,Month-to-month,DSL,Yes,North,No
+Male,58,62.83,3652.46,Month-to-month,None,Yes,South,Yes
+Male,31,88.85,2794.73,Month-to-month,DSL,Yes,South,Yes
+Male,51,25.82,1363.03,One year,Fiber optic,Yes,East,No
+Male,61,111.52,6843.36,Month-to-month,DSL,No,North,Yes
+Female,57,64.24,3594.14,Month-to-month,Fiber optic,No,South,Yes
+Female,51,43.98,2211.12,Month-to-month,DSL,Yes,West,No
+Female,11,29.39,290.46,Month-to-month,None,Yes,West,Yes
+Female,38,38.29,1416.07,One year,None,No,West,No
+Female,1,113.46,69.85,Month-to-month,None,No,North,Yes
+Male,2,83.83,134.11,Month-to-month,DSL,Yes,South,Yes
+Female,55,71.67,3958.65,Month-to-month,Fiber optic,Yes,West,Yes
+Female,58,85.71,4995.9,One year,Fiber optic,Yes,North,Yes
+Male,1,63.57,63.49,Month-to-month,DSL,Yes,West,No
+Female,1,93.0,71.7,One year,DSL,No,East,No
+Male,53,24.77,1376.58,Two year,Fiber optic,Yes,South,No
+Female,0,76.6,-4.58,Month-to-month,Fiber optic,Yes,South,Yes
+Male,18,35.86,692.33,Month-to-month,Fiber optic,Yes,North,Yes
+Female,1,32.02,3.55,Month-to-month,Fiber optic,Yes,North,Yes
+Female,52,54.19,2838.57,Month-to-month,DSL,No,South,No
+Male,43,29.18,1321.84,One year,DSL,No,West,No
+Male,31,29.42,781.58,Two year,DSL,No,West,No
+Male,69,51.14,3495.91,Month-to-month,None,Yes,East,No
+Male,31,117.95,3686.14,Month-to-month,DSL,Yes,West,Yes
+Male,67,37.53,2575.15,Month-to-month,DSL,No,North,No
+Male,54,21.72,1183.04,One year,DSL,Yes,North,No
+Male,55,96.34,5301.18,Month-to-month,None,Yes,West,Yes
+Male,16,100.69,1691.57,Month-to-month,None,No,North,Yes
+Female,37,54.63,2085.01,Two year,Fiber optic,No,South,No
+Female,23,66.47,1485.38,One year,Fiber optic,No,South,No
+Male,68,84.98,5784.46,Month-to-month,Fiber optic,No,West,Yes
+Female,69,24.81,1729.9,One year,DSL,Yes,South,No
+Female,10,114.91,1235.03,One year,None,Yes,South,No
+Female,15,108.67,1673.35,Month-to-month,Fiber optic,No,East,Yes
+Female,58,46.09,2668.04,Month-to-month,Fiber optic,Yes,East,Yes
+Male,69,21.53,1496.57,Month-to-month,Fiber optic,No,South,Yes
+Female,2,113.34,132.49,Month-to-month,Fiber optic,No,West,Yes
+Male,19,70.1,1380.33,One year,Fiber optic,Yes,East,No
+Female,58,73.94,4320.81,Two year,None,No,North,No
+Female,35,88.4,3154.61,Month-to-month,None,Yes,North,Yes
+Female,18,81.59,1461.42,Month-to-month,Fiber optic,Yes,North,Yes
+Male,66,114.39,7556.14,Month-to-month,Fiber optic,Yes,West,Yes
+Female,18,114.43,2035.67,Month-to-month,DSL,Yes,South,Yes
+Male,19,106.72,1970.28,One year,Fiber optic,No,North,Yes
+Female,70,83.64,5824.69,Month-to-month,DSL,Yes,West,Yes
+Male,51,100.09,5013.62,Month-to-month,Fiber optic,No,East,Yes
+Female,32,87.72,2852.77,Month-to-month,None,No,South,Yes
+Male,39,77.34,2907.52,One year,Fiber optic,No,East,No
+Male,38,32.85,1349.91,Month-to-month,Fiber optic,No,West,Yes
+Female,0,101.12,-88.21,One year,DSL,Yes,North,No
+Male,10,102.06,1095.59,Month-to-month,DSL,Yes,North,Yes
+Female,56,82.59,4579.64,One year,Fiber optic,No,West,Yes
+Female,49,102.04,5028.01,One year,DSL,No,North,No
+Female,22,85.15,1835.68,Month-to-month,DSL,Yes,South,Yes
+Female,30,40.67,1303.79,Month-to-month,Fiber optic,No,West,Yes
+Female,41,47.4,1945.59,Two year,Fiber optic,Yes,East,No
+Female,6,41.46,302.44,Two year,Fiber optic,No,West,No
+Female,15,57.73,869.75,Month-to-month,DSL,Yes,South,No
+Female,59,23.9,1427.75,Month-to-month,Fiber optic,No,South,Yes
+Female,1,81.83,112.64,Two year,Fiber optic,No,West,Yes
+Female,0,53.66,-26.44,Month-to-month,Fiber optic,Yes,West,Yes
+Female,47,85.57,3957.78,Month-to-month,Fiber optic,No,North,Yes
+Male,11,58.54,578.86,Two year,DSL,No,South,No
+Male,68,88.16,5997.42,Month-to-month,Fiber optic,Yes,West,Yes
+Female,36,54.06,1921.73,Month-to-month,Fiber optic,No,West,Yes
+Female,31,46.07,1320.88,Month-to-month,None,Yes,South,No
+Female,8,69.6,582.45,Month-to-month,Fiber optic,Yes,West,Yes
+Female,18,89.29,1546.3,Month-to-month,Fiber optic,No,North,Yes
+Female,47,54.83,2518.99,One year,Fiber optic,No,South,No
+Female,2,113.66,225.24,Month-to-month,Fiber optic,No,North,Yes
+Female,19,23.92,409.47,Month-to-month,None,No,North,No
+Female,23,61.79,1427.3,Month-to-month,Fiber optic,No,North,Yes
+Male,53,116.76,6286.95,Month-to-month,Fiber optic,No,North,Yes
+Female,32,74.8,2374.65,Two year,Fiber optic,No,South,No
+Male,23,62.35,1381.07,Month-to-month,Fiber optic,Yes,North,Yes
+Female,71,76.85,5465.43,Month-to-month,Fiber optic,No,North,Yes
+Female,35,77.59,2676.89,Two year,None,Yes,West,No
+Male,37,93.16,3448.11,Month-to-month,Fiber optic,No,South,Yes
+Female,24,32.77,802.26,Month-to-month,Fiber optic,No,South,Yes
+Male,17,45.0,763.24,Month-to-month,None,Yes,East,No
+Female,65,78.05,5076.08,Month-to-month,DSL,No,South,No
+Female,53,106.71,5665.23,Month-to-month,DSL,No,South,Yes
+Male,34,76.19,2670.32,Month-to-month,DSL,Yes,East,Yes
+Female,60,43.86,2618.95,One year,None,No,South,No
+Male,40,87.98,3525.57,Month-to-month,DSL,No,South,Yes
+Female,32,93.99,3051.02,Month-to-month,DSL,No,South,Yes
+Male,67,43.82,2959.49,One year,DSL,Yes,South,No
+Male,32,57.77,1830.73,Month-to-month,DSL,No,East,Yes
+Female,13,73.43,999.68,One year,DSL,No,South,No
+Female,20,69.66,1349.64,Month-to-month,Fiber optic,No,South,Yes
+Male,47,58.96,2759.78,Month-to-month,Fiber optic,No,East,Yes
+Female,19,49.76,906.89,One year,DSL,Yes,West,No
+Female,7,30.0,238.81,Month-to-month,DSL,Yes,North,Yes
+Female,6,25.35,211.58,Month-to-month,DSL,No,West,No
+Male,66,115.85,7657.27,Month-to-month,DSL,No,East,Yes
+Male,16,104.71,1679.12,Month-to-month,Fiber optic,Yes,North,Yes
+Male,32,55.49,1731.93,One year,Fiber optic,Yes,East,No
+Male,47,115.68,5401.83,Month-to-month,DSL,No,East,Yes
+Male,58,87.68,5025.78,Month-to-month,Fiber optic,Yes,South,Yes
+Male,21,68.25,1324.42,Month-to-month,DSL,No,North,Yes
+Male,29,69.3,1990.15,One year,None,Yes,South,No
+Male,37,28.33,1033.3,Month-to-month,Fiber optic,Yes,North,Yes
+Male,50,29.17,1567.14,Two year,Fiber optic,Yes,East,No
+Female,53,80.24,4330.86,Month-to-month,DSL,Yes,East,Yes
+Male,7,75.37,555.37,One year,None,No,West,No
+Female,26,41.27,1177.24,Two year,DSL,Yes,North,No
+Female,26,114.62,3049.67,One year,DSL,Yes,South,No
+Female,20,98.13,1862.22,Two year,DSL,No,West,No
+Male,29,31.35,962.52,Month-to-month,DSL,Yes,West,Yes
+Male,27,113.09,3089.0,Month-to-month,None,Yes,West,Yes
+Male,63,117.42,7382.99,Month-to-month,Fiber optic,No,South,Yes
+Male,68,119.59,8061.36,Month-to-month,DSL,Yes,West,Yes
+Female,60,25.59,1565.17,Month-to-month,Fiber optic,No,South,Yes
+Male,47,93.7,4299.94,Month-to-month,None,No,West,Yes
+Male,18,74.59,1341.55,Month-to-month,None,No,South,No
+Male,3,90.58,240.89,Month-to-month,Fiber optic,No,East,Yes
+Male,34,116.87,3910.64,Two year,None,Yes,East,No
+Male,63,88.8,5653.84,Month-to-month,None,No,East,Yes
+Female,48,103.7,4975.53,One year,Fiber optic,Yes,East,Yes
+Male,16,106.69,1715.74,One year,DSL,Yes,East,No
+Female,43,103.85,4510.94,Two year,Fiber optic,Yes,West,Yes
+Male,29,62.61,1815.25,One year,None,Yes,West,No
+Female,45,42.26,1924.27,One year,DSL,Yes,West,No
+Male,5,59.67,339.14,Two year,None,Yes,South,No
+Male,36,109.19,3959.18,Two year,DSL,Yes,South,No
+Female,23,34.66,811.48,Month-to-month,DSL,Yes,South,No
+Female,45,71.33,3299.01,Month-to-month,DSL,Yes,South,Yes
+Female,52,43.32,2314.74,Month-to-month,DSL,Yes,East,Yes
+Male,59,78.13,4605.38,Month-to-month,None,No,East,Yes
+Female,62,106.31,6545.74,One year,None,No,East,No
+Male,31,108.04,3381.17,One year,None,No,North,No
+Male,32,43.67,1408.23,One year,Fiber optic,Yes,West,No
+Female,66,110.77,7396.27,Month-to-month,DSL,No,South,Yes
+Female,17,79.19,1395.6,Two year,Fiber optic,No,South,No
+Male,24,55.02,1358.69,One year,Fiber optic,No,East,No
+Male,53,90.82,4814.11,One year,Fiber optic,Yes,South,Yes
+Female,57,68.17,3841.91,Two year,DSL,Yes,South,No
+Female,66,57.8,3804.9,One year,Fiber optic,Yes,West,No
+Female,45,90.51,4096.79,Month-to-month,Fiber optic,Yes,East,Yes
+Male,23,44.87,945.53,One year,None,No,West,No
+Male,31,53.03,1706.02,Month-to-month,None,No,North,Yes
+Male,46,63.45,3022.05,Month-to-month,Fiber optic,No,North,Yes
+Male,22,45.37,900.89,One year,Fiber optic,No,North,No
+Male,65,60.52,3863.79,Month-to-month,Fiber optic,Yes,East,Yes
+Male,26,77.15,2017.38,One year,DSL,Yes,South,No
+Female,1,94.1,64.97,Month-to-month,None,Yes,East,Yes
+Male,16,96.72,1560.57,Two year,None,No,East,No
+Male,32,102.28,3269.38,Month-to-month,Fiber optic,Yes,South,Yes
+Male,8,94.42,704.17,Two year,DSL,Yes,West,No
+Female,42,88.1,3764.62,One year,DSL,No,North,No
+Male,47,43.75,2079.48,Month-to-month,Fiber optic,No,West,Yes
+Male,38,60.02,2252.77,Month-to-month,DSL,Yes,North,No
+Female,41,67.77,2853.82,Two year,None,Yes,East,No
+Male,25,28.29,681.83,Month-to-month,DSL,Yes,North,No
+Male,49,72.84,3507.07,Month-to-month,DSL,Yes,East,No
+Male,24,63.63,1536.3,Month-to-month,None,Yes,West,Yes
+Male,23,100.21,2322.49,Month-to-month,Fiber optic,Yes,East,Yes
+Male,12,117.79,1440.08,One year,DSL,No,West,No
+Female,59,75.6,4495.22,One year,DSL,No,South,No
+Female,6,52.27,339.43,Month-to-month,DSL,No,South,Yes
+Female,56,24.34,1386.81,Month-to-month,Fiber optic,Yes,South,Yes
+Male,35,112.46,3907.41,One year,DSL,No,East,No
+Male,44,111.91,4890.0,Month-to-month,Fiber optic,Yes,South,Yes
