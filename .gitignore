@@ -6,3 +6,6 @@
 *.iml
 *.xml
 *.html
+fashion-mnist_train.csv
+fashion-mnist_test.csv
+train.scv
