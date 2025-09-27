@@ -1,7 +1,4 @@
-import numpy as np
-
 from DL.common.functions import *
-
 
 class Relu:
     def __init__(self):

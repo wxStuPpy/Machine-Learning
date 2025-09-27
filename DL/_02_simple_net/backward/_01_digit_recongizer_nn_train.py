@@ -12,7 +12,7 @@ network = TwoLayerNet(input_size=784, hidden_size=50, output_size=10)
 # 3.设置超参数
 learning_rate = 0.1
 batch_size = 100
-num_epoch = 30
+num_epoch = 20
 
 train_size = x_train.shape[0]
 iter_per_epoch = np.ceil(train_size / batch_size)
@@ -48,6 +48,6 @@ for i in range(iter_num):
 # 5.画图
 x = np.arange(len(train_acc_list))
 plt.plot(x, train_acc_list, label='Train Acc')
-plt.plot(x, train_acc_list, label='Test Acc', linestyle='--')
+plt.plot(x, test_acc_list, label='Test Acc', linestyle='--')
 plt.legend(loc='best')
 plt.show()

@@ -48,6 +48,6 @@ for i in range(iter_num):
 # 5.画图
 x = np.arange(len(train_acc_list))
 plt.plot(x, train_acc_list, label='Train Acc')
-plt.plot(x, train_acc_list, label='Test Acc', linestyle='--')
+plt.plot(x, test_acc_list, label='Test Acc', linestyle='--')
 plt.legend(loc='best')
 plt.show()

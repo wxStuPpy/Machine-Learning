@@ -1,8 +1,6 @@
-import numpy as np
-from DL.common.functions import softmax, sigmoid, cross_entropy_error
+from collections import OrderedDict
 from DL.common.gradient import numerical_gradient
 from DL.common.layers import *
-from collections import OrderedDict
 
 
 class TwoLayerNet:
