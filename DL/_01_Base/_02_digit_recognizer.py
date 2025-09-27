@@ -1,8 +1,7 @@
 import numpy as np
 import pandas as pd
-from sklearn.metrics import accuracy_score
 
-from common.functions import softmax,sigmoid
+from DL.common.functions import softmax,sigmoid
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
 import joblib

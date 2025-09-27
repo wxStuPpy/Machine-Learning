@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from common.gradient import numerical_diff
+from DL.common.gradient import numerical_diff
 
 
 def f(x):
