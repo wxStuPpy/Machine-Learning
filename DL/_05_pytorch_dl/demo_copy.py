@@ -51,7 +51,6 @@ def create_dataset():
     x_test = transformer.transform(x_test)  # 测试集：用训练集的转换器转化（避免数据泄露）
 
     # 5.6 转化为DataFrame（方便查看特征，可选步骤）
-    # 用get_feature_names_out()获取所有特征列名（兼容新版本sklearn）
     x_train_df = pd.DataFrame(
         x_train.toarray(),  # 稀疏矩阵→稠密数组（独热编码后可能为稀疏矩阵）
         columns=transformer.get_feature_names_out()
