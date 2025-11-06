@@ -32,4 +32,4 @@ model.fit(X_train, y_train)
 # 5. 预测 & 评估
 y_pred = model.predict(X_test)
 print("测试集准确率:", accuracy_score(y_test, y_pred))
-print("分类报告:\n", classification_report(y_test, y_pred))
+print("分类报告 :\n", classification_report(y_test, y_pred))
